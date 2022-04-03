@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aricionur
+- 👋 Hi, I’m Onur ARICI
 - 👀 I’m interested in Javascript, Node.js, React, MongoDB
 - 🌱 I’m currently learning Algorithms, React
 - 💞️ I’m looking to collaborate on Fullstack software development
