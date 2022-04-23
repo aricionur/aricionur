@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Onur ARICI
-- 👀 I’m interested in Javascript, Node.js, React, MongoDB
-- 🌱 I’m currently learning Algorithms, React
-- 💞️ I’m looking to collaborate on Fullstack software development
+- 👀 I’m interested in Javascript, Python, Node.js, React, MongoDB
+- 🌱 I’m currently learning Algorithms and Data Structures, React/Hooks
+- 💞️ I’m looking to collaborate on Backend - Fullstack software development
 - 📫 How to reach me aricionur@gmail.com
 
 <!---
