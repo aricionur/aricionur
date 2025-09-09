@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Onur ARICI
-- 👀 I’m interested in Javascript/Typescript, Node.js, React, MongoDB, SQL, Microservices and cloud technologies.
+- 👀 I’m interested in Javascript/Typescript,Python, Node.js, React, MongoDB, SQL, Postgres, Microservices and AWS technologies.
 - 🌱 I’m currently working on AWS, microservices and system designs.
-- 💞️ I’m looking to collaborate on Backend and/or Fullstack software development
+- 💞️ I’m looking to collaborate on Backend/Frontend/Fullstack software development
 - 📫 How to reach me aricionur@gmail.com
 
 <!---
